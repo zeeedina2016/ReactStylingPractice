@@ -1,2 +1,0 @@
-# ReactStylingPractice
-Created with CodeSandbox
